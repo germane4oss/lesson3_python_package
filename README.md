@@ -22,6 +22,12 @@ package_code.calc_average(5,6)
 
 package_code.calc_min(9,3)
 ```
+## Testing
+
+Use pytest to test the code with
+```
+pytest test_package_code.py
+```
 
 ## Authors
 
