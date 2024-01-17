@@ -32,7 +32,7 @@ pytest test_package_code.py
 ## Authors
 
 German Silva  
-gsilva2k5@gmail.com
+german@e4oss.ca
 
 ## Version History
 
